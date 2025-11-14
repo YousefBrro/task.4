@@ -1,0 +1,135 @@
+*{
+    color: #272D38;
+}
+.my-primary-margin{
+    margin-left: 188px !important;
+    margin-right: 187px !important;
+}
+.my-secondary-margin{
+    margin-bottom: 136px !important;
+}
+.my-text{
+    font-size: 18px !important;
+}
+.fs-h{
+        font-size: 48px !important;
+}
+
+/* start navbar */ 
+.my-p{
+        padding: 46px 178px !important;
+    }
+
+/* end navbar */
+
+/* start hero */
+.my-fs-h{
+    font-size: 64px;
+    max-width: 540px !important;
+}
+
+.my-fs-p{
+    max-width: 490px !important;
+}
+
+.my-m{
+    margin-top: 171px !important;
+}
+.my-btn{
+    background-color: #8EADD5;
+    width: 167px !important;
+    height: 48px !important;
+}
+/* end hero */
+
+/* start section one */
+.my-m-p{
+    height: 86px !important;
+}
+.space{
+    margin-top: 189px !important;
+}
+/* end section one */
+
+/* start section */
+.my-width-h{
+        width: 435.69px !important;
+    }
+.my-width-p{
+        width: 360px !important;
+}
+/* end section tow */
+
+/* start section five */
+.h{
+    width: 361px !important;
+}
+.p{
+    width: 350px !important;
+}
+/* end section five */
+
+/* start footer */
+.m-f{
+    margin-top: 105px;
+    margin-bottom: 32px;
+}
+.copyright{
+    font-size: 16px;
+    margin-top: 110px;
+    margin-bottom: 18px;
+}
+
+@media screen and (max-width : 992px) {
+    .my-p{
+        padding: 48px 24px !important;
+    }
+    .my-fs-logo{
+        font-size: 14px !important;
+    }
+    .my-m{
+        margin-top: 95px !important;
+    }
+    .my-fs-h{
+        width: 378px !important;
+        font-size: 40px !important;
+    }
+    .my-fs-p{
+        width: 360px !important;
+        font-size: 16px !important;
+    }
+    .my-btn{
+        width: 140px !important;
+        height: 35px !important;
+        font-size: 14px !important;
+    }
+    .my-secondary-margin{
+    margin-bottom: 120px !important;
+    }
+    .space{
+        margin-bottom: 88px !important;
+    }
+    .fs-h{
+        font-size: 32px !important;
+    }
+    .fs-p{
+        font-size: 14px !important;
+    }
+    .my-width-h{
+        width: 380px !important;
+    }
+    .my-width-p{
+        width: 380px !important;
+    }
+    .width-s-five{
+    width: 309px !important;
+    }
+    .m-f{
+        margin-top: 72px;
+    }
+    .copyright{
+        font-size: 12px;
+        margin-top: 92px;
+        margin-bottom: 24px;
+    }
+}
